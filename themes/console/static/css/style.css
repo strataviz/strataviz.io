@@ -22,3 +22,11 @@ body {
     opacity: 0;
   }
 }
+
+img.fade {
+  opacity: 0.5;
+}
+
+img.fade:hover {
+  opacity: 1.0;
+}
