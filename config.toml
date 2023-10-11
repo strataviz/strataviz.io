@@ -1,0 +1,6 @@
+baseURL = "https://strataviz.io/"
+title = "strataviz.io"
+theme = "console"
+
+[params]
+  message = "On the way"
